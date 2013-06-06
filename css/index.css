@@ -40,3 +40,25 @@ div[data-role="editor-toolbar"] {
 .dropdown-menu a {
   cursor: pointer;
 }
+
+#contentDiv{
+	
+	margin-top: 0px;
+}
+
+.ezdeck-button-toolbar{
+	
+	margin-top: 0px;
+	text-align: center;
+}
+.ezdeck-add-slide-btn-div
+{
+	margin-top:5px;
+	margin-right:-20px;
+}
+
+.ezdeck-rte{
+	
+	min-height: 400px;
+	min-width: 600px;
+}
